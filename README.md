@@ -1,8 +1,9 @@
+
 # Genesis 2026: Ideathon
 
 ## GEN26-A0H-I020
 ### Team Details
-#### **Team Name** <<INNOVITA>> <br/>
+#### **Team Name** : INNOVITA <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |    🏢 Hostel /Dayscholar     |    
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:--------------------------:| 
@@ -10,4 +11,3 @@
 |    Member 2     |         K.Vikas Nair              |  CB.EN.U4ECE26022                      |   Male                |                 ECE                |Hostel(Kashyapa Bhavanam)|
 |    Member 3     |         Kishorekumar Leelavinothan|  CB.SC.U4CSE26727                      |   Male                |                 CSE                |Hostel(Kashyapa Bhavanam)|
 |    Member 4     |         Krishiva Venkatesh        |  CB.EN.U4ECE26027                      |   Male                |                 ECE                |Hostel(Kashyapa Bhavanam)|   
-
